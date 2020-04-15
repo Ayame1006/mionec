@@ -1,2 +1,2 @@
 # mionec
-this file shows the coursera certificate I received in Computer Science.
+this file shows the certificate of coursera courses I took related with Computer Science.
